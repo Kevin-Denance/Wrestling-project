@@ -1,2 +1,38 @@
-# Wrestling-project
-A compilation of the different scripts I created with python for this project
+This is a great addition to your GitHub repository. Since your project involves a multi-stage process (scraping, data cleaning, and CSV generation), your README should clearly reflect that workflow.
+
+Here is a professional and concise description you can use:
+
+---
+
+## 🤼‍♂️ Collegiate Athlete Web Scraper
+
+This project features a Python-based web scraping pipeline designed to extract, clean, and structure player information from collegiate athletics websites (specifically targeting wrestling rosters).
+
+### 📋 Project Overview
+
+The script automates the collection of athlete data, transforming unstructured HTML content into a structured dataset. The workflow includes:
+
+* **Web Scraping**: Utilizing `BeautifulSoup` and `Requests` to crawl roster pages and individual player profiles.
+* **Data Structuring**: Extracting specific attributes such as **Name, Weight Class, Academic Class, Hometown,** and **High School**.
+* **Data Cleaning**: Implementing `pandas` logic to handle inconsistent web formatting (e.g., shifting data columns when "Weight Class" is missing).
+* **Exporting**: Generating a final, cleaned `TeamData.csv` for downstream analysis.
+
+### 🔍 View Detailed Project
+
+To see the full technical implementation, code commentary, and data cleaning logic, please open the Jupyter Notebook:
+👉 **[Web scraper to get players info.ipynb](https://www.google.com/search?q=./Web%2520scraper%2520to%2520get%2520players%2520info.ipynb)**
+
+### 🛠️ Technologies Used
+
+* **Python 3**
+* **BeautifulSoup4** (HTML Parsing)
+* **Requests** (HTTP Library)
+* **Pandas** (Data Manipulation & Cleaning)
+
+---
+
+### Pro-Tip for your GitHub:
+
+Since your filename has spaces in it (`Web scraper to get players info.ipynb`), GitHub might sometimes have trouble with direct links in Markdown. I've formatted the link above to use `%20` for spaces, which ensures the link works perfectly in a browser.
+
+**Would you like me to also create a "How to Run" section for your README that lists the specific library installations needed?**
