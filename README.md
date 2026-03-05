@@ -14,7 +14,7 @@ The script automates the collection of athlete data, transforming unstructured H
 ### 🔍 View Detailed Project
 
 To see the full technical implementation, code commentary, and data cleaning logic, please open the Jupyter Notebook:
-👉 **[Web scraper to get players info.ipynb]([https://github.com/Kevin-Denance/Wrestling-project/blob/main/Web%20scraper%20to%20get%20players%20info.ipynb])**
+👉 **[Web scraper to get players info.ipynb](https://github.com/Kevin-Denance/Wrestling-project/blob/main/Web%20scraper%20to%20get%20players%20info.ipynb)**
 
 ### 🛠️ Technologies Used
 
