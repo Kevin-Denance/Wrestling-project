@@ -1,9 +1,3 @@
-This is a great addition to your GitHub repository. Since your project involves a multi-stage process (scraping, data cleaning, and CSV generation), your README should clearly reflect that workflow.
-
-Here is a professional and concise description you can use:
-
----
-
 ## 🤼‍♂️ Collegiate Athlete Web Scraper
 
 This project features a Python-based web scraping pipeline designed to extract, clean, and structure player information from collegiate athletics websites (specifically targeting wrestling rosters).
