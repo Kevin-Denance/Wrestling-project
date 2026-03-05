@@ -23,10 +23,3 @@ To see the full technical implementation, code commentary, and data cleaning log
 * **Requests** (HTTP Library)
 * **Pandas** (Data Manipulation & Cleaning)
 
----
-
-### Pro-Tip for your GitHub:
-
-Since your filename has spaces in it (`Web scraper to get players info.ipynb`), GitHub might sometimes have trouble with direct links in Markdown. I've formatted the link above to use `%20` for spaces, which ensures the link works perfectly in a browser.
-
-**Would you like me to also create a "How to Run" section for your README that lists the specific library installations needed?**
